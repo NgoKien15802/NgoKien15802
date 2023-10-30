@@ -1,11 +1,11 @@
 # Hey there :wave:
 
-<img src="https://leverageedu.com/discover/wp-content/uploads/2023/03/Web-Developer.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
-## About me
+## About me :coffee:
 
-I'm Ngo Trung Kien. I'm 21. I live in Hanoi.
+I'm Ngo Trung Kien :heart:. I'm 21. I live in Hanoi.
 
 
 
